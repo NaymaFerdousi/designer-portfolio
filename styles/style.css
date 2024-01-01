@@ -174,6 +174,18 @@ marquee{
     font-size: 20px;
     color: #817f83;
 }
+.icon{
+    position: absolute;
+    padding-left: 480px;
+    padding-top: 200px;
+    font-size: 30px;
+    display: flex;
+    color: #f1eff4;
+}
+.icon i {
+    margin-right: 35px; /* Adjust the value as needed for the desired space */
+    margin-top: 20px;
+}
 .rights{
     position: absolute;
     margin-left: 50px;
